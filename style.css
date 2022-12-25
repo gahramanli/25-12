@@ -1,0 +1,165 @@
+*{
+    margin: 0;
+}
+.navbar{
+    background-color: #F8F9FA;
+    width: 100%;
+    height: 8vh;
+    display: flex;
+    align-items: center;
+
+}
+.left{
+    width: 15%;
+    height: 8vh;
+    
+}
+.right{
+    width:85%;
+    height: 8vh;
+    border-bottom: 1px solid gray;
+    height: 8vh;
+    display: flex;
+    justify-content: space-between;
+    border-left: 1px solid gray;
+    text-align: center;
+
+
+}
+.logo{
+    height: 8vh;
+    align-items: center;
+    justify-content: flex-start;
+    padding-left: 20px;
+    display: flex;
+    text-align: center;
+
+    font-size: 22px;
+
+    border-bottom: 1px solid gray;
+}
+.toggle{
+    text-align: center;
+    display: flex;
+    align-items: center;
+
+    margin-left: 10px;
+    justify-content: flex-start;
+}
+.buttons{
+    width: 200px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    padding: 6px;
+    margin-right: 10px;
+    justify-content: space-evenly;
+    font-size: 19px;
+
+}
+.list{
+    justify-content: space-evenly;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    width: 150px;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 1px;
+}
+.list a{
+    text-decoration: none;
+    color: #0000008C;
+    padding: 5px;
+}
+.dropdown{
+    color: #0000008C;
+}
+.btn{
+    color: white;
+    background-color: #0D6EFD;
+    border: 7px solid #0D6EFD ;
+    border-radius: 5px;
+    width: 120px;
+    height: 40px;
+    font-size: 15px;
+    font-weight: middle;
+}
+.dropdown img{
+    width: 10px;
+    height: 10px;
+    margin-top: 7px;
+    margin-left: 3px;
+}
+.dropdown{
+    display: flex;
+    padding-left: 10px;
+    justify-content: space-evenly;
+}
+.secondary{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+}
+.leftwords{
+    width: 15%;
+    height: 100vh;
+
+    
+}
+.rightwords{
+    width: 85%;
+    height: 100vh;
+    border-left: 1px solid gray;
+}
+.list{
+    width: 30.4vh;
+    height: 8vh;
+    border-bottom: 1px solid gray;
+    font-size: 20px;
+    color: #636464;
+    
+    
+}
+.list-item h100{
+    margin-left: 1px;
+    padding-left: 10px;
+    left: 10px;
+}
+.rightwords h44{
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.rightwords{
+    padding: 10px;
+}
+.list2{
+    width: 30.4vh;
+    height: 8vh;
+
+    font-size: 20px;
+   
+}
+.list-item-end {
+    margin-left: 1px;
+    padding-left: 23px;
+    padding-top: 20px;
+    left: 10px;
+    color: #636464;
+
+}
+.rightwords h55{
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.rightwords h66{
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+.list-item h99{
+    padding-left: 20px;
+    margin-left: -125px;
+}
